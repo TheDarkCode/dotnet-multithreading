@@ -1,0 +1,9 @@
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\datapartitioning\bin\Debug\datapartitioning.exe.config
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\datapartitioning\bin\Debug\datapartitioning.exe
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\datapartitioning\bin\Debug\datapartitioning.pdb
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\datapartitioning\obj\Debug\datapartitioning.exe
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\datapartitioning\obj\Debug\datapartitioning.pdb
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\datapartitioning\obj\Debug\datapartitioning.csprojResolveAssemblyReference.cache
+D:\Source\Workspaces\PluralSight\CLRThreading\multithreading-demos\datapartitioning\bin\Debug\datapartitioning.exe.config
+D:\Source\Workspaces\PluralSight\CLRThreading\multithreading-demos\datapartitioning\obj\Debug\datapartitioning.exe
+D:\Source\Workspaces\PluralSight\CLRThreading\multithreading-demos\datapartitioning\obj\Debug\datapartitioning.pdb

@@ -1,0 +1,6 @@
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\mtadd\bin\Debug\mtadd.exe.config
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\mtadd\obj\Debug\mtadd.csprojResolveAssemblyReference.cache
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\mtadd\bin\Debug\mtadd.exe
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\mtadd\bin\Debug\mtadd.pdb
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\mtadd\obj\Debug\mtadd.exe
+D:\Source\Workspaces\PluralSight\CLRThreading\mthello\mtadd\obj\Debug\mtadd.pdb
